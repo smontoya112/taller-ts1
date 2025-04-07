@@ -1,5 +1,4 @@
-"use strict";
-class Serie {
+export class Serie {
     constructor(id, title, network, season, description, url, image) {
         this.id = id;
         this.title = title;
